@@ -1,0 +1,2383 @@
+Tutorial 2
+
+Attempt tasks 1 (a-c) , and 2 BEFORE your tutorial
+Do these tasks by hand
+
+» Hand in all tasks by 1pm Friday 31 July 2020
+<--->
+End Slide
+-----
+
+Last time... Turning data into information
+
+= Examining distributions |
+= Numerical summaries for quantitative data
+
+« Measures of location
+~ Mean & median ©
+
+Generally use the 5 number summary for a skewed distribution
+Use the median rather than the mean
+- Use the mean for a symmetric distribution
+
+« This time....
+» Measures of spread
+- Range and interquartile range (IQR)
+_ Standard deviation
+_ variance
+» Obtaining statistics from grouped data
+<--->
+End Slide
+-----
+
+Measures Of Variation (ace 3s coursenotes)
+<--->
+End Slide
+-----
+
+¢ IQ scores
+Both samples have the same mean of 100.0.
+
+ 
+
+Both samples
+<--->
+End Slide
+-----
+
+Yi eas 0] res ey i AV E-) riati re) n Page 33 coursenotes booklet
+
+Range
+- the largest observation minus the smallest
+observation » _ y
+
+max filial
+
+Advantage of this statistic
+It is easy to calculate
+
+Disadvantage
+It is very influenced by outliers
+<--->
+End Slide
+-----
+
+¢ IQ scores
+Both samples have the same mean of 100.0.
+
+ 
+
+Both samples
+
+Larger
+spread
+<--->
+End Slide
+-----
+
+Interquartile range (IQR)
+
+- Shows the range of the middle 50% of observations
+- Defined as the difference between third quartile & first
+quartile
+1QR = Q; eae
+
+Advantage
+It is not affected by outliers
+
+Disadvantage
+
+Only looking at range of middle 50% of the
+observations
+<--->
+End Slide
+-----
+
+Page 34 coursenotes booklet
+
+Standard deviation
+
+Forapopulation ¢ =
+
+ 
+
+For a sample —
+
+ 
+
+Average deviation of the values from the mean
+<--->
+End Slide
+-----
+
+Standard deviation
+
+For a sample
+
+ 
+
+= The standard deviation is positive.
+
+= It is zero only when all of the data values are the same
+number.
+
+= |tcan never be negative.
+
+= The units of the standard deviation are the same as the
+units of the original data values.
+
+= Larger values of s indicate greater amounts of variation.
+
+7
+<--->
+End Slide
+-----
+
+advantages
+This statistic is in original units and is thus
+directly comparable to the mean
+
+disadvantages
+It is influenced by outliers
+<--->
+End Slide
+-----
+
+Standard deviation
+
+For a sample
+
+ 
+
+= The standard deviation is positive.
+
+= It is zero only when all of the data values are the same
+number.
+
+= |tcan never be negative.
+
+= The units of the standard deviation are the same as the
+units of the original data values.
+
+= Larger values of s indicate greater amounts of variation.
+
+7
+<--->
+End Slide
+-----
+
+MeV ae Li(C ome
+
+This is the “average” of the squared deviations
+from the mean
+
+v2
+lame M ee) UE Cela) o2 = iu aes = )
+
+For a sample
+
+oe
+
+Pe
+<--->
+End Slide
+-----
+
+Note the use of the divisor of (n - 1) for the
+sample variance. This makes the sample
+variance an unbiased estimator of the
+population variance
+
+Advantages
+=» good mathematical properties
+
+Disadvantages
+It is strongly influenced by outliers
+It is also in squared units
+— hard to have a good idea about what size it is
+<--->
+End Slide
+-----
+
+Coefficient of variation
+
+This is the ratio of the standard deviation to the mean
+It is usually expressed as a percentage
+
+It measures the spread relative to the average size
+<--->
+End Slide
+-----
+
+Dispersion
+
+- Is the amount of spread or scatter that occurs
+in data set
+
+- If values in set are clustered tightly around their
+ratsyc la
+~ Measured dispersion (std. Dev.) Is small
+
+. If standard deviation is small
+- Items bunched around their mean
+
+. If standard deviation is large
+~ Data values widely dispersed about their mean
+
+re
+<--->
+End Slide
+-----
+
+Page 35 coursenotes booklet
+
+Empirical rule
+: For distributions that are generally bell shaped,
+
+» Approximately 68% of the observations will lie within
+one standard deviation of the mean
+
+» Approximately 95% of the observations will lie within
+two standard deviations of the mean
+
+» Approximately 99.7% of the observations will lie within
+three standard deviations of the mean
+<--->
+End Slide
+-----
+
+Example 1.13
+
+¢ IQ scores have a bell shaped distribution with a mean
+of 100 and a standard deviation of 15.
+
+ 
+
+¢ The empirical rule approximately 68% of the
+observations will lie within 1 standard deviation of the
+mean.
+i.e. between 100- 15 = 85 and 100+ 15 = 115
+
+¢ The empirical rule approximately 95% of the
+observations will lie within 2 standard deviation of the
+mean.
+
+* j.e. between 100 — 2*15 = 70 and 100+ 2*15 = 130
+<--->
+End Slide
+-----
+
+* For the two data sets displayed in the following
+histograms, determine which graph has the larger
+standard deviation?
+
+ 
+
+a) Data set A has a larger standard deviation than data set B.
+b) Data set B has a larger standard deviation than Data set A.
+c) Both data sets have the same standard deviation.
+
+15
+<--->
+End Slide
+-----
+
+Estimating the mean and variance from
+grouped data
+
+With grouped data
+— have lost the information about where in the
+group each observation lies
+- all we know is the group in which each
+observation lies
+- Therefore we assume each observation in a group
+lies at the group midpoint
+<--->
+End Slide
+-----
+
+Formula for grouped mean
+
+ay
+
+7 a
+
+X=
+mM, - midpoint of group j
+
+| MU ele
+J
+<--->
+End Slide
+-----
+
+Formula for grouped variance
+
+2. 5(m— x) f,
+
+n-1
+TO ae
+
+n(n—1)
+
+Uy
+
+‘i
+<--->
+End Slide
+-----
+
+Example 1.7 ctd. Tensile strength data
+
+ 
+
+Class Frequency f |Midpoint m mf
+Yel COLA
+
+200 < x < 300
+300 < x < 400]
+400 < x <500
+500 < x < 600
+600 <x < 700
+700 <x < 800
+
+oY
+
+ 
+
+ss
+as
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-/RIOD|O
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mean calculated from Raw data x = 442.97
+<--->
+End Slide
+-----
+
+Using Excel to obtain numerical
+STUTAN Aare TACs m elie [= 1 Ee]
+
+¢ Can use a formula
+
+— Click on a cell and press the equals (=) key.
+We can then insert a function.
+
+— Commonly used functions include AVERAGE,
+COUNT, MAX, MIN,MEDIAN, MODE,
+QUARTILE, STDEV
+
+* e.g. tensile strength data
+* =AVERAGE(B4:B38) 442.97
+
+20
+<--->
+End Slide
+-----
+
+* Can use Descriptive Statistics
+
+— you need to have loaded the Analysis ToolPak on
+your machine before you will see the Data Analysis
+tab
+
+: . 4429685714
+e.g. tensile strength data 22.13910179
+
+130.9766925
+
+Sample Variance 17154.89398
+Kurtosis
+
+aT
+<--->
+End Slide
+-----
+
+¢ The length of time in months for a tumour to recur after
+
+chemotherapy for a particular cancer are displayed in
+the following table
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Class interval | Frequency
+0<x<10 0
+10<x<20 10
+20<x<30 5
+30<x<40 4
+40<x<50 WW
+50<x<60 ig
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¢ How would you describe the shape of the distribution?
+
+¢ What is the mean of the distribution?
+
+od
+<--->
+End Slide
+-----
+
+Quick quiz:
+
++ Ateacher gives a 15 item maths test.
+
+* For each item, a student receives one point for a correct answer;
+0 points for no answer; and loses one point for an incorrect
+El oe
+
+* Total test scores could range from +15 points to -15 points.
+
+* The teacher computes the standard deviation of the test scores
+for the class to be -2.30. What do we know?
+
+oz
+<--->
+End Slide
+-----
+
+Quick quiz:
+
++ Ateacher gives a 15 item maths test.
+
+* For each item, a student receives one point for a correct answer;
+0 points for no answer; and loses one point for an incorrect
+El oe
+
+* Total test scores could range from +15 points to -15 points.
+
+* The teacher computes the standard deviation of the test scores
+for the class to be -2.30. What do we know?
+
+a) Most students scored below the mean.
+
+b) Most students received negative scores.
+
+c) The standard deviation was calculated incorrectly.
+d) None of the above.
+
+oz
+<--->
+End Slide
+-----
+
+The histograms show the test scores (Scale 0 to 10) for five different
+classes. Which of the classes would you expect to have the lowest
+standard deviation?
+
+>
+2
+£
+3
+=
+
+345678
+Scores
+
+ 
+
+[Oo ERas)
+Class C
+Class D
+eras
+
+Frequency
+Frequency
+<--->
+End Slide
+-----
+
+* The two boxplots below display final exam scores for all students
+in two different sections of the same course.
+
+tH
+
+-——_{___ | —+——+4
+
+10 20 30 40 50 60 70 GO 90 100110 120450440150
+Exam Score
+
+ 
+
+Which section has a greater percentage of students with scores
+
+a) Section A.
+b) Section B.
+c) Both sections are about equal.
+
+oa
+<--->
+End Slide
+-----
+
+Tutorial 2
+
+Attempt tasks 1 (a-c) , and 2 BEFORE your tutorial
+Do these tasks by hand
+
+» Hand in all tasks by 1pm Friday 31 July 2020
+<--->
+End Slide
+-----
+
+Tutorial 2
+
+Attempt tasks 1 (a-c) , and 2 BEFORE your tutorial
+Do these tasks by hand
+
+» Hand in all tasks by 1pm Friday 31 July 2020
+<--->
+End Slide
+-----
+
+
+-----
+End Lecture
+-----
+
+
+Tutorial 2
+
+Attempt tasks 1 (a-c) , and 2 BEFORE your tutorial
+- Do these tasks by hand
+- Bring to class so tutor can check for attempt
+
+=» Hand in all tasks by 1pm Friday 31 July 2020
+
+» Heard about the politician who promised that, if he was
+elected, he'd make certain that everybody would have an
+above average income? mam,
+<--->
+End Slide
+-----
+
+Last time... Turning data into information
+
+=» Examining distributions |
+= Numerical summaries for quantitative data
+
+» Measures of location
+~ Mean & median ~
+
+» Measures of spread
+Range and interquartile range (IQR) —
+Standard deviation —
+aVr-lit-lae-
+« Obtaining statistics from grouped data —
+
+aR eee
+Normal distribution
+<--->
+End Slide
+-----
+
+The Normal Distribution
+
+Course notes booklet pg 45 -
+<--->
+End Slide
+-----
+
+Example 2.1:
+
+= The times taken for a student to change classes in
+a large university campus were recorded.
+
+= The allocated changeover time for classes was 10
+minutes.
+<--->
+End Slide
+-----
+
+05
+
+04
+
+03
+
+02
+
+04
+
+ 
+
+ 
+
+n
+
+ 
+
+8
+
+9
+
+10
+
+1"
+
+12
+
+ 
+
+13
+
+14
+<--->
+End Slide
+-----
+
+05 05
+n=5 LL
+
+04 04
+
+03 03
+
+02 02
+
+o4 04
+
+° 0
+3.4 5 6 7 8 9 10 1 12 13 14 5 6 7 8 9 10 1 12 13 14 15
+
+05
+
+St e74')
+
+03
+
+02
+
+o4
+
+° 3
+394 5 6 7 8 9 10 1 12 13 14
+<--->
+End Slide
+-----
+
+As more data are collected, the picture of the
+distribution becomes more refined.
+
+ 
+
+ 
+
+ 
+
+ 
+
+05 0s
+n=5 n=10
+04 04
+03 03
+02 02
+04 o4
+0 0
+34 5 6 7 8 9 10 1 12 13 14 5 6 7 8 9 10 1 12 13 14 15
+os 0s
+a7.) oat Wh
+03 03
+02 02
+o4 o4
+0 0
+34 5 6 7 8 9 10 1 12 13 14 15
+
+ 
+
+394 5 6 7 8 9 0 11 12 13 14
+<--->
+End Slide
+-----
+
+Time to class:
+proportion n= 2000
+
+0.16
+0.14
+0.12
+
+0.1
+0.08
+0.06
+0.04
+
+0.02
+
+6 7 8 9 10 1
+time to class (mins)
+
+12
+
+13
+
+  
+
+Page 45
+coursenotes
+
+Mean = 9.73
+
+Standard
+deviation = 2.90
+<--->
+End Slide
+-----
+
+Time to class: can superimpose a smooth symmetric
+bell shaped curve on the data. Use this to model the
+
+data. This curve is called the distribution.
+proportion
+0116 Mean = 9.73
+O14 -
+
+  
+  
+
+Standard
+deviation = 2.90
+
+0.12
+0.1
+0.08
+0.06
+0.04 +
+
+0.02
+
+1 2 3 4 5 6 7 8 9 10 Il 12 13) 14 15) 16) 17) 1B 195
+time to class (mins)
+<--->
+End Slide
+-----
+
+ie
+
+Properties of Density functions
+
+The curve is always above (or on) the x-axis
+
+Page 46
+coursenotes
+<--->
+End Slide
+-----
+
+Distribution Curves
+The area under the curve and between any range
+of values is the relative frequency of all
+observations that fall in that range
+Area under
+curve = 1
+<--->
+End Slide
+-----
+
+Distribution Curves
+The area under the curve and between any range
+
+of values is the relative frequency of all
+observations that fall in that range
+
+Area under
+curve = 1
+
+    
+
+0.08
+
+0.06 +
+
+0.04
+
+0.02 +
+<--->
+End Slide
+-----
+
+Page 46
+Properties of Density functions eaten
+
+The curve is always above (or on) the x-axis
+The total area under the pdf curve is __1
+
+Pr(a < X < b) = __area_ under the curve from a to b
+between the pdf curve and the x-axis
+
+a
+For a continuous random variable the endpoints of
+intervals are unimportant, i.e.
+<--->
+End Slide
+-----
+
+Normal Distribution Pg 47 coursenotes
+
+= ls the most commonly used distribution
+= It is important and useful because
+<--->
+End Slide
+-----
+
+Normal Distribution Pg 47 coursenotes
+
+= ls the most commonly used distribution
+= It is important and useful because
+- many patterns of variation are normal
+
+~ the distribution is easy to work with mathematically
+and its properties are well understood
+<--->
+End Slide
+-----
+
+Normal Distribution pg 47 coursenotes
+
+= ls the most commonly used distribution
+= It is important and useful because
+— many patterns of variation are normal
+
+~ the distribution is easy to work with mathematically
+and its properties are well understood
+
+~ whenever a number of quantities is summed
+(averaged), the result tends to be approximately
+normally distributed
+<--->
+End Slide
+-----
+
+Normal Distribution
+
+«= If a variable X has a normal distribution with mean p» and
+standard deviation o, we write N ( 11, o), or Normal ( 1, o)
+
+= Land o are parameters of the distribution
+<--->
+End Slide
+-----
+
+Properties of Normal Distribution N(p, o)
+
+= Has a Bell shaped curve
+
+=the probability distribution is symmetric
+
+athe distribution is completely specified by the
+mean and standard deviation
+
+parameters
+<--->
+End Slide
+-----
+
+Normal distribution
+
+The shape of the curve is determined solely by its mean, 4“ and
+its standard deviation, o
+
+TTR ML (:s- ie ea eaves
+Same standard deviations
+<--->
+End Slide
+-----
+
+Normal distribution
+
+The shape of the curve is determined solely by its mean, 4“ and
+its standard deviation, o
+
+TTC Rc TN ML (:s- ea ean
+Same standard deviations
+
+  
+
+Same mean
+Different standard
+
+deviations o, =
+<--->
+End Slide
+-----
+
+In a normal distribution with mean p and
+standard deviation © Pg 48 coursenotes
+
+Approximately
+= 68% of observations fall within o of the mean pw
+» 95% of observations fall within 20 of mean p
+
+» 99.7% of observations fall within 30 of mean p
+<--->
+End Slide
+-----
+
+In a normal distribution with mean p and standard
+deviation o
+
+Exact limits
+= 95% of observations fall within 1.960 of mean 1
+Pe bee) mo) Xa eM elscem ed MUL
+<--->
+End Slide
+-----
+
+In a normal distribution with mean p and standard
+deviation o
+
+> Clam ic)
+= 95% of observations fall within 1.960 of mean 1
+Pe bee) mo) Xa eM elscem ed MUL
+
+a
+[B= @ fear ley i emxer
+Yio fe PAN uct ead Role Teer Neen Chi
+iced H+3o
+
+Shaded Area = 0.997
+<--->
+End Slide
+-----
+
+Page 48
+coursenotes
+
+Example 2.2
+
+¢ Distribution of heights of male university students is
+approximately normal with a mean of 177.4 and
+standard deviation of 6.39
+<--->
+End Slide
+-----
+
+Page 48
+
+Example 2.2 ene
+
+¢ Distribution of heights of male university students is
+approximately normal with a mean of 177.4 and
+standard deviation of 6.39
+
+68% of the male university
+
+students’ heights lie between
+177.4 - 6.39 and 177.4 + 6.39.
+
+ie., between 171.01 and 183.79
+centimetres
+
+WAR
+
+p-o =171.01
+im
+p+o =183.79
+<--->
+End Slide
+-----
+
+Page 48
+coursenotes
+
+Example 2.2
+
+¢ Distribution of heights of male university students is
+approximately normal with a mean of 177.4 and
+standard deviation of 6.39
+
+95% of the male university
+students’ heights lie between
+177.4 — 2*6.39 and
+
+177.4 + 2°6.39.
+
+i.e., between 164.62 and 190.18
+centimetres
+
+WAR
+
+=
+
+20
+<--->
+End Slide
+-----
+
+Recall : Percentiles pg 35 coursenotes
+
+¢ E.g. what percentage of the population of your gender is
+taller than you.
+
+* Your percentile in the population represents the position
+of your measurement in comparison with everyone
+else's.
+
+aT
+<--->
+End Slide
+-----
+
+Recall : Percentiles pg 35 coursenotes
+
+¢ E.g. what percentage of the population of your gender is
+taller than you.
+
+Your percentile in the population represents the position
+of your measurement in comparison with everyone
+else's.
+
+Your percentile gives the percentage of the population
+that falls below you.
+
+If you are in the 50th percentile,
+
+— exactly half of the population falls below you.
+
+If you were in the 98th percentile,
+
+— 98% of the population falls below you
+
+— 2% is above you.
+
+aT
+<--->
+End Slide
+-----
+
+Percentiles & Normal populations
+
+* Can easily find percentiles if the population of values has
+an approximate bell shape
+
+¢ Need three pieces of information
+— your own value,
+— the mean p and standard deviation o of the population.
+
+op
+<--->
+End Slide
+-----
+
+Percentiles & Normal populations
+
+* Can easily find percentiles if the population of values has
+an approximate bell shape
+
+¢ Need three pieces of information
+— your own value,
+— the mean p and standard deviation o of the population.
+
+¢ Although there are an unlimited number of potential bell
+shaped curves, each one is completely determined once
+you know its mean and standard deviation.
+
+op
+<--->
+End Slide
+-----
+
+Standardising and Z scores Perel etry
+
+= If x is an observation from a distribution that has
+mean » and standard deviation o, then the
+standardised value of x is
+ee
+Z= o
+
+ 
+
+=a standardised value is often called a z-score
+
+=az-score how many standard deviations the
+oT amie CML LMU: U8)
+
+Ped
+<--->
+End Slide
+-----
+
+Example (continued)
+
+* For the male university students, the z-score for a student who
+is 180 cm high is
+
+ete _ 180-1774 _ 9 4069
+o (eed
+
+ 
+
+* 180 cm high is 0.4069 standard deviations above the mean
+height measurement for this population.
+
+* Can then use tables (or Excel) to find the percentile
+
+oz
+<--->
+End Slide
+-----
+
+Page 49
+coursenotes
+
+Example
+
+A student obtained 19/25 marks in her biology test
+She obtained 40/50 in her biology exam
+
+In which of these tests did the student achieve better results in
+terms of ranking with students in the same paper?
+
+Test marks T ~ Normal (1 = 13.5, o = 4.6)
+Exam marks E ~Normal ( = 30.1,0 = 9.4)
+
+oa
+<--->
+End Slide
+-----
+
+Page 49
+Example coursenotes
+
+* Astudent obtained 19/25 marks in her biology test
+
+* She obtained 40/50 in her biology exam
+
+* In which of these tests did the student achieve better results in
+terms of ranking with students in the same paper?
+
+* Test marks T ~ Normal (u = 13.5, o = 4.6)
+
+* Exam marks E ~Normal (u = 30.1,0 = 9.4)
+
+Z~N(0,1)
+
+19-13.5
+Test: Z-score for 19 = The oo
+
+Exam: Z-score for 40= 40=30.1_ Oe}
+ce
+Did better in the biology test in terms of ranking with students in the
+same course (bio test score 1.195 standard deviations away from
+mean cf bio exam 1.05 standard deviations away from mean.),.
+<--->
+End Slide
+-----
+
+The Standard Normal Distribution ps coursenotes
+
+= is the Normal distribution N(0,1) with mean 0 and
+standard deviation 1
+
+= If X has any normal distribution N(p, o) with mean p
+and standard deviation o, then the standardised
+NE-Tat- le) (<}
+
+Sau
+ao)
+
+ 
+
+has the standard normal distribution.
+i.e. N(0,1) distribution.
+
+Xd
+<--->
+End Slide
+-----
+
+A word about Eton Tables
+
+Note: Eton tables are sometimes
+o=1 p used!
+
+They give the area 0 to z.
+
+Calculations with them often involve
+
+adding or subtracting 0.5.
+
+oa
+<--->
+End Slide
+-----
+
+Calculating Normal probabilities
+
+* Most packages calculate Pr(X < x).
+(Or the area from -infinity to x, which is a much more
+useful form)
+
+Area = Pr(X <x)
+
+  
+
+he Pr(X <x)
+
+28
+<--->
+End Slide
+-----
+
+Calculating Normal probabilities
+
+* Most packages calculate Pr (X < x).
+¢ If you want Pr (X>x) , calculate 1 — Pr (X <x).
+
+Area = Pr(X <x)
+
+  
+
+he Pr(X <x)
+
+oy
+<--->
+End Slide
+-----
+
+p 49 coursenotes
+
+Finding Probabilities for z-scores
+Table 2.1 = Standard Normal (z) Probabilities
+
+0003 0003 0003 0003 0003 0003 0003 0003 0003 0002
+0005 0005 0005 0004 0004 0004 0004 0004 0004 0003
+
+0007 0007 0006 0006 0006 oC 0006 0005 0005 0005
+0010 0009 0009 0009 0008 0008 0008 0008 0007 0007
+0013 0013 0013 0012 0012 0011 0011 0011 0010 0010
+
+ 
+
+Note: Standard normal tables can be found on the 2nd to last page in the course notes.
+
+* Body of table contains P(Z < z*).
+
+EY
+<--->
+End Slide
+-----
+
+Cumulative normal probabilities p(Z< z) for z> 0
+
+ 
+
+* P(Z<2.00) = 0.9772
++ P(Z < 2.13) = 0.9834
+
+ST
+<--->
+End Slide
+-----
+
+Finding Probabilities for z-scores
+Table 2.1 = Standard Normal (z) Probabilities
+
+0003 0003 0003
+0005 0004 0004
+
+0006 0006 0005
+0009 0008 8 0008
+0013 0012 0011
+
+ 
+
+Note: Standard normal tables can be found on last page course notes.
+
+* Body of table contains P(Z < z*).
++ P(Z<-3.00) = 0.0013
++ P(Z < -2.59) = 0.0048
++ P(Z< 1.31) =0.9049
++ P(Z< 2.00) =0.9772
++ P(Z>3.00) = 0.0013
+
+32
+<--->
+End Slide
+-----
+
+e Z scores- tells you how many standard
+deviations away from the mean the observation
+lies
+
+¢ Probabilities from the standard normal tables
+give you the percentiles
+
+* Zscore = 1
+
+* Tables P(Z<1)=0.8413
+
+Ee
+<--->
+End Slide
+-----
+
+Probability Z > 1.31
+
+Probability Z is between —2.59 and 1.31
+<--->
+End Slide
+-----
+
+Probability Z > 1.31
+
+i2V Ames a ee VASES
+=1-.9049
+=0.0951
+
+Probability Z is between —2.59 and 1.31
+
+ 
+
+34
+<--->
+End Slide
+-----
+
+P(Z> 131)=1-P(Z< 131)
+=1-.9049 Shaded area is
+: 1-.9049 = .0951
+Sane o
+
+z-score
+
+ 
+
+Shaded area is
+9049 - .0048 = .9001
+
+zScore
+<--->
+End Slide
+-----
+
+Question 1 Topic 2 pRcsmmansis
+
+e Use your tables to find the proportion of observations
+from a standard normal that satisfies each of the
+following statements.
+
+° Sketch a standard normal curve and shade the area
+under the curve that is required.
+
+(CW Aeaea ss
+Aa)
+(c) Z>-1.66
+(d) -1.66<Z<2.85
+<--->
+End Slide
+-----
+
+Tutorial 2
+
+Attempt tasks 1 (a-c) , and 2 BEFORE your tutorial
+- Do these tasks by hand
+- Bring to class so tutor can check for attempt
+
+=» Hand in all tasks by 1pm Friday 31 July 2020
+
+» Heard about the politician who promised that, if he was
+elected, he'd make certain that everybody would have an
+above average income? mam,
+<--->
+End Slide
+-----
+
+Tutorial 2
+
+Attempt tasks 1 (a-c) , and 2 BEFORE your tutorial
+- Do these tasks by hand
+- Bring to class so tutor can check for attempt
+
+=» Hand in all tasks by 1pm Friday 31 July 2020
+
+» Heard about the politician who promised that, if he was
+elected, he'd make certain that everybody would have an
+above average income? mam,
+<--->
+End Slide
+-----
+
+
+-----
+End Lecture
+-----
+
+
+
+<--->
+End Slide
+-----
+
+Last time... Turning data into information
+
+Pe due mel uelsiicela)
+
+Course notes booklet pg 45 -
+
+ae ee Continue Normal distribution
+<--->
+End Slide
+-----
+
+Properties of Normal Distribution N(p, o)
+
+= Has a Bell shaped curve
+
+=the probability distribution is symmetric
+
+athe distribution is completely specified by the
+mean and standard deviation
+
+parameters
+<--->
+End Slide
+-----
+
+Normal distribution
+
+The shape of the curve is determined solely by its mean, 4“ and
+its standard deviation, o
+
+TTC Rc TN ML (:s- ea ean
+Same standard deviations
+
+  
+  
+ 
+ 
+
+Same mean
+Different standard
+deviations o, <a, <o,
+
+4
+oO;
+<--->
+End Slide
+-----
+
+Standardising and Z scores Perel etry
+
+= If x is an observation from a distribution that has
+mean » and standard deviation o, then the
+standardised value of x is
+ee
+Z= o
+
+ 
+
+=a standardised value is often called a z-score
+
+=az-score how many standard deviations the
+oT amie CML LMU: U8)
+
+* Can use the z scores to find percentiles.
+<--->
+End Slide
+-----
+
+The Standard Normal Distribution ps coursenotes
+
+= is the Normal distribution N(0,1) with mean 0 and
+standard deviation 1
+
+= If X has any normal distribution N(p, o) with mean p
+and standard deviation o, then the standardised
+NE-Tat- le) (<}
+
+Sau
+ao)
+
+ 
+
+has the standard normal distribution.
+i.e. N(0,1) distribution.
+<--->
+End Slide
+-----
+
+¢ Z scores- tells you how many standard
+
+deviations away from the mean the observation
+lies
+
+¢ Probabilities from the standard normal tables
+gives you the percentiles
+
+* Observation has a Z score = 1
+
+— This observation lies one standard deviation above
+ilatomaaexelal
+
+* Tables P(Z<1)=0.8413
+— Observation has 84.13% observations less than it
+<--->
+End Slide
+-----
+
+Yo) MZ Tale Ma Olatit: Mad ke) O(c) Umer eters
+
+If x is normally distributed with a mean p and the
+standard deviation o , to find the proportions in
+some required area
+
+1. Draw a sketch of the Normal curve centered on the
+mean p and shade in the required area
+
+2. Standardise the values x, using the transformation
+z=(x-y)/o
+
+3. Find the areas from the Standard Normal tables, or
+use Excel
+<--->
+End Slide
+-----
+
+Inverse Normal Problems pg so coursenotes
+
+If x is normally distributed with a mean p and standard
+deviation o , and you have the proportions in some
+required area and want to find the x at which this
+proportion holds.
+
+i.e. you have a probability p and want an x- value
+
+1. Draw a sketch of the Normal curve centered on the
+mean p and shade in the required area.
+
+2. Look in the body of the Standard Normal tables to find
+this proportion and find the z for which this p value
+holds.
+
+3. Calculate the values x, using the transformation
+X=OZ+U
+<--->
+End Slide
+-----
+
+Aerofoil Data Example
+
+= 1
+omg ol
+<--->
+End Slide
+-----
+
+Run Charts - Aerofoil
+
+N
+a
+
+ne
+
+Km per litre
+a
+a
+
+ay
+
+a) i a
+
+off
+
+Ah
+
+Daily Fuel Consumption
+
+on
+
+  
+
+Day
+<--->
+End Slide
+-----
+
+Aerofoil On - Km per Litre
+
+Cae)
+
+1.
+
+Sir)
+S)
+6
+
+K}
+
+Ki]
+6|6 6 9
+
+7}5 556678 9
+
+8}0 112244 4 4
+
+8155555566688 89 9
+9300112223333 3 3 3
+935555566677 9
+
+2,0)/001123 3 4
+
+0}5 77789
+
+leaf unit = 0.01
+
+On)
+
+Ot
+
+n=87
+
+ono
+NN OO
+<--->
+End Slide
+-----
+
+Summary Statistics
+
+mallest Observation
+ower Quartile
+
+a
+NI
+(o>)
+
+mE
+ey eek ee LL EE
+
+argest Observation
+
+From Excel, find X = 1.90, s = 0.15, so we will
+use these statistics as estimates of the
+parameters for 1, o
+<--->
+End Slide
+-----
+
+Assuming a normal model for the data, with a
+mean of 1.90, and standard deviation of 0.15
+
+¢ What proportion of trips has a fuel
+consumption of between 1.7 and 2.2 km/litre?
+
+¢ What are the quartiles of the distribution and
+hence the interquartile range?
+
+« What fuel consumption is exceeded on 90% of
+ita k= ig
+<--->
+End Slide
+-----
+
+i) Proportion between 1.7 and 2.2 km/
+<--->
+End Slide
+-----
+
+i) Proportion between 1.7 and 2.2 km/
+
+H=1.9,0=0.15 Step 1: Sketch & shade in required area.
+<--->
+End Slide
+-----
+
+i) Proportion between 1.7 and 2.2 km/
+foo, e=0N5
+
+   
+ 
+ 
+
+Step 1: Sketch & shade in required area.
+Step 2: Transform
+
+Pape 17-19 _-0.2 _
+
+o Os en)
+
+p= DD pate 22-19 _ 0.3
+om
+
+ 
+
+ 
+
+=1,33
+
+ 
+
+ 
+
+=—— =2.00
+0.15 0)
+
+Step 3: Find the probabilities from the tables
+
+P(Z<~-1.33) =0.0918
+P(Z<2.00)=0.9772
+
+Step 4: Find the required area
+
+P(L7<x<2.2)= P(Z<2.00)- P(Z <-1.33) = 0.9772- 0.0918 = 0.8854
+
+ie
+<--->
+End Slide
+-----
+
+ii) Quartiles of the distribution, & IQR- this is an inverse normal
+problem, we are given p and need to find the x at which that p holds
+
+Step 1: Sketch & draw in given information.
+<--->
+End Slide
+-----
+
+ii) Quartiles of the distribution, & IQR- this is an inverse normal
+problem, we are given p and need to find the x at which that p holds
+
+=/9,e=015 a ; ,
+ls ~ Step 1: Sketch & draw in given information.
+
+Step 2: Find Z for which p = 0.25, and p=0.75
+<--->
+End Slide
+-----
+
+ii) Quartiles of the distribution, & IQR- this is an inverse normal
+problem, we are given p and need to find the x at which that p holds
+
+=/9,e=015 a ; ,
+ls ~ Step 1: Sketch & draw in given information.
+
+Step 2: Find Z for which p = 0.25, and p=0.75
+
+PoU es Nee
+Pra
+
+ 
+ 
+  
+ 
+
+one es
+
+ 
+
+eC rearrange formula to give
+¥=0.15x(-0.675)+1.9=1.8
+
+De aed OO
+
+o 0.15
+rearrange formula to give
+
+x=0.15x(0.675)+1.9 = 2.00
+
+ 
+
+ 
+
+id Paral
+
+5
+<--->
+End Slide
+-----
+
+iii) Fuel consumption exceeded on 90% of the trips
+
+Step 1: Sketch & draw in given information.
+<--->
+End Slide
+-----
+
+iii) Fuel consumption exceeded on 90% of the trips
+
+H=19,¢=0.15 Step 1: Sketch & draw in given information.
+
+  
+
+Notice that we do not use p=0.9.
+0.10
+
+a We want the fuel consumption exceeded
+on 90% of the trips, hence p = 0.10
+
+Step 2: Find Z for which p = 0.10
+
+ea #19 |
+
+Cn Cre
+rearrange formula to give
+
+x=0.15x(-1.285)+1.9=1.71
+
+p=0.10; z=—1.285 =
+<--->
+End Slide
+-----
+
+Example 2.4
+
+The Environmental Protection Agency (EPA) in the US requires
+that the exhaust of each model of motor vehicle be tested for the
+level of several pollutants. The level of oxides of nitrogen (NOX)
+found in the exhaust of one light truck model was found to vary
+among individual trucks according to a normal distribution with
+mean py = 1.45 grams per mile driven and a standard deviation
+of 0,=0.40 grams per mile
+
+Using this information:
+
+By
+<--->
+End Slide
+-----
+
+Example 2.4 continued
+
+iii. Ifa truck has a NOX level of greater than 2 standard
+deviations above the mean it is required to be tuned
+and retested. What percentage of trucks have to be
+tuned and retested?
+
+(iv) Approximately 86.6% of the trucks have NOX levels at
+the mean plus or minus 1 and ’% standard deviations. If
+a randomly chosen truck falls into this category, what
+is the possible range for its NOX level?
+
+(v) What is the NOX level that is exceeded by 4% of the
+ite <4
+
+aT
+<--->
+End Slide
+-----
+
+Example 2.4
+
+The level of oxides of nitrogen (NOX) found in the exhaust of one
+light truck model was found to vary among individual trucks
+according to a normal distribution with mean p, = 1.45 grams per
+mile driven and a standard deviation of o,=0.40 grams per mile
+
+Using this information:
+
+(i) What is the probability that a randomly chosen truck would
+generate between 0.65 grams per mile and 2.25 grams per mile
+of NOX gases?
+
+op
+<--->
+End Slide
+-----
+
+Example 2.4
+
+The level of oxides of nitrogen (NOX) found in the exhaust of one
+light truck model was found to vary among individual trucks
+according to a normal distribution with mean p, = 1.45 grams per
+mile driven and a standard deviation of o,=0.40 grams per mile
+
+Using this information:
+
+(i) What is the probability that a randomly chosen truck would
+generate between 0.65 grams per mile and 2.25 grams per mile
+of NOX gases?
+
+(ii) What proportion of these light trucks would generate between
+1.05 grams per mile and 1.85 grams per mile of NOX gases?
+
+Notice we are given x values in both (i) and (ii) . Need to determine a
+probability
+
+op
+<--->
+End Slide
+-----
+
+What is the probability that a randomly chosen truck
+would generate between 0.65 grams per mile and 2.25
+grams per mile of NOX gases?
+<--->
+End Slide
+-----
+
+« What proportion of these light trucks would generate
+between 1.05 grams per mile and 1.85 grams per mile
+of NOX gases?
+
+Ze a
+7 .
+
+FS Now tables 9 PCB <-
+Hn =: eze1)
+ASTI
+hone P (deme proce xe Ves) = O'SUIS — OSS
+= O-6S 26,
+
+=
+<--->
+End Slide
+-----
+
+If a truck has a NOX level of greater than 2 standard deviations
+above the mean it is required to be tuned and retested. What
+percentage of trucks have to be tuned and retested?
+<--->
+End Slide
+-----
+
+(iv) Approximately 86.6% of the trucks have NOX levels at the
+mean plus or minus 1 and % standard deviations. If a
+
+randomly chosen truck falls into this category, what is the
+possible range for its NOX level?
+<--->
+End Slide
+-----
+
+What is the NOX level that is exceeded by 4% of the trucks?
+
+ 
+
+iS
+<--->
+End Slide
+-----
+
+x, 1s the point such thet of of the observations
+are a qor of the obseivations
+one _qrecte: ten 14,
+Whetec-s .
+Wy Is the_ppit sucky thet 90/ of the obsawodions
+ove_less than “it, and_10/ of fhe obsenctions_are.
+
+nyector Hoe it.
+
+Hence to Rad the Lol CONSLA option thet 1s
+~ exacened fe of the Sbseehiams te ues |
+the £ we wel to find 2x,,
+<--->
+End Slide
+-----
+
+Example 2.5
+
+Assume that the natural gestation period for human births is
+approximately Normally distributed with a mean 266 days and a
+standard deviation of about 16 days. Use the output below to
+answer the following questions
+
+a) What is the maximum gestation for the bottom 15% of births?
+b) What is the range of gestation period for the central 60% of births?
+
+c) What is the maximum gestation period exceeded by 90% of births?
+
+Normal with mean = 266.000 and standard deviation = 16.0000
+
+P( X <= x ) x P(X <=x) x
+0.10 245.495 0.60 270.054
+0.15 249.417 0.80 279.466
+0.20 252.534 0.90 286.505
+
+0.40 261.946 ®
+<--->
+End Slide
+-----
+
+Example 2.5
+
+a) What is the maximum gestation for the bottom 15% of births?
+
+Os}
+aw
+
+ 
+
+b) What is the range of gestation period for the central 60% of births?
+
+     
+
+Nofmal with mean =~766.000 and standard deviation = 16.0000
+P( X <= x ) 4 P(X =x) x
+0.10 245.495 0.60 270.054
+0.15 249.417 0.80 279.466
+0.20 252.534 0.90 286.505
+
+0.40 261.946
+
+Et)
+<--->
+End Slide
+-----
+
+Example 2.5
+
+a) What is the maximum gestation period exceeded by 90% of births?
+
+ 
+
+BS fost WM elt tes. Pele toto ME aot tee C bao MoV mete Roe
+
+16.0000
+P( X <= x ) 4 P(X =x) x
+0.10 245.495 0.60 270.054
+0.15 249.417 0.80 279.466
+0.20 252.534 0.90 286.505
+
+0.40 261.946 a
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+
+* 2 ways — use a formula (i.e. type in = and then
+select the function, or
+
+Formulas tab
+
+OUT FORMULAS — DATA
+IB Look
+[Bi math & Trig ~
+
+Insert
+
+Function [EB Fina More Functions ~
+
+ 
+
+Insert function f,
+
+NORM-S.INViprobability
+
+@ Tell me more
+<--->
+End Slide
+-----
+
+Standard Normal probabilities and Excel
+N(0, 1) Distribution
+
+=NORM.S.DIST(z) To find the area to the left of
+EM Calon aM ella Area =Pr(Z<z)
+
+AN
+
+IAZSz)
+
+ 
+
+* =NORM.S.DIST(1.5) = 0.933193
+<--->
+End Slide
+-----
+
+Standard Normal probabilities and Excel
+N(0, 1) Distribution
+
+e = NORM.S.INV(p) To find the z- score with an
+
+area of p to its left:
+Area =Pr(Z<z)=p
+
+ 
+
+oA
+
+Area 2Pr(Z<z)= p
+
+* =NORM.S.INV(0.3) = -0.5244
+
+* =NORM.S.INV(0.9) = 1.281552
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+N(u, o) Distribution
+
+e =NORM.DIST(x, p, o, 1) To find the area to the left of a
+known value x: Area =Pr(X <x)
+
+AN
+
+(Zea)
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+N(u, o) Distribution
+
+« =NORM.DIST( )
+
+Di 7 < 2\
+
+ 
+
+NORMDIST
+x ||
+Mean
+Standard_dev |
+
+Cumulative
+
+ 
+
+ 
+
+ 
+
+Returns the normal cumulative distribution for the specified mean and standard deviation.
+
+X is the value For which you want the distribution.
+<--->
+End Slide
+-----
+
+¢ X is approximately normally distributed, with
+mean 3 and standard deviation 2, want P(X<5)
+
+a
+Sandie 2B] =?
+
+= TRUE
+
+= 0.841344746
+<ified mean and standard deviation.
+
+value: for the cumulative distribution function, use TRUE; for
+lity density function, use FALSE.
+
+Formula result = 0.841344746
+
+Help on this function
+
+ 
+
+37
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+N(u, o) Distribution
+
+=NORM.DIST(x, p, 0, 1) To find the area to the left of a
+known value x:
+
+PX <x)
+
+ 
+
+=NORM.DIST(5,3,2, TRUE) = =NORM.DIST(5,3,2,1)
+= 0.841345
+
+Note that false will give you the probability mass function
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+N(u, o) Distribution
+
+° =NORM.INV(p, u, o) To find the value x with an area
+
+of p to its left:
+Ter Ces bay
+
+ 
+
+Pa aa
+Ba
+
+Area =Pr(X <x)=p
+
+=NORMINV(0.3) = -0.5244
+
+=NORMDIST(0.9) = 1.281552
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+N(u, o) Distribution
+
+* = NORM.INV(p, p, ©)
+
+NORMINY
+Probability
+
+ 
+
+Mean
+
+ 
+
+ 
+
+ 
+
+Standard_dev
+
+Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.
+
+Probability is a probability corresponding to the normal distribution, a number between 0
+and 1 inclusive.
+<--->
+End Slide
+-----
+
+Normal probabilities and Excel
+N(u, o) Distribution
+
+¢ =NORM.INV(p, p, o) To find the value x with an area
+of p to its left:
+
+   
+ 
+
+CIM Patie iad COS) a7
+
+oa
+
+“Area £Pr(X <x) =p
+
+* =NORM.INV(0.3,5,2) = 3.951199
+
+ZT)
+<--->
+End Slide
+-----
+
+Standardisation and Excel
+« = STANDARDIZE(x, p, o)
+
+CS 21x!
+
+Search for a function:
+
+‘Type a brief description of what you want to do and then click Go
+Go
+
+Or select a category: [All E
+
+Select a function:
+
+     
+   
+    
+
+ 
+
+STANDARDIZE(x,mean,standard_dev)
+
+Returns a normalized value from a distribution characterized by a mean and
+standard deviation.
+<--->
+End Slide
+-----
+
+Standardisation and Excel
++ = STANDARDIZE(x, p, 0)
+
+ 
+
+STANDARDIZE
+x
+
+2x)
+
+= number
+
+ 
+
+Mean number
+
+ 
+
+ 
+
+bee Eee
+
+Standard_dey
+
+= number
+
+Returns a normalized value From a distribution characterized by a mean and standard deviation.
+
+X isthe value you want to normalize.
+
+Formula result =
+<--->
+End Slide
+-----
+
+
+<--->
+End Slide
+-----
+
+
+<--->
+End Slide
+-----
+
+
+-----
+End Lecture
+-----
+
+
+
+<--->
+End Slide
+-----
+
